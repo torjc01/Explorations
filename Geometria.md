@@ -14,6 +14,14 @@ Stone Quarries and beyond http://quarriesandbeyond.org/
 
 Carved Greenman https://www.carvedgreenman.com/
 
+Gothic Math https://uh.edu/admin/engines/epi942.htm
+
+The Circle, The Wheel of Fortune & The Rose Window http://www.dartmouth.edu/~matc/math5.geometry/unit9/unit9.html#Rose%20window
+
+New York Carver http://www.newyorkcarver.com/geometry/geometry.htm
+
+QUICK GUIDE: HOW TO USE A RULING PEN https://www.jeeamirza.com/blog/2020/5/27/quick-guide-how-to-use-a-ruling-pen
+
 ## Tópicos google
 
 Gothic Tracery 

@@ -1,5 +1,5 @@
 # Openbanking
-[Banco do Brasil] https://developers.bb.com.br/home
+[Banco do Brasil] https://developers.bb.com.br/home (Desenvolvimento)
 
 [ABFintechs - Associação Brasileira de Fintechs](https://www.abfintechs.com.br/)
 
