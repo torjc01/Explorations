@@ -85,7 +85,7 @@ Les user-agents qui connaissent ce schema font la résolution, via le Universal 
 
 Elle est faite selon les schemas DIF/W3C DID Auth. Voir le lien: https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/draft-documents/did_auth_draft.md
 
-Authorization
+## Authorization
 
 Elle est faite via une couche de permissions implementée bare bones. Le proprietaire du hub peut donner l'accès, et peut le contraindre à certains types de données. Il aura plus d'implementations disponibles au futur, qui sont des work in progress chez DIF. 
 
@@ -375,6 +375,12 @@ Performing a Request request to the base Services interface will respond with an
 # Références
 ## DIF 
 
+https://identity.foundation/
+
+Storage Compute est le groupe de travail dans DIF qui se dédie au développement des Identity Hubs - https://identity.foundation/working-groups/storage-compute.html
+
+https://github.com/decentralized-identity
+
 https://github.com/decentralized-identity/hub-sdk-js
 
 https://github.com/decentralized-identity/identity-hub
@@ -383,7 +389,14 @@ https://github.com/decentralized-identity/identity-hub/blob/master/explainer.md
 
 https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/did-auth.md
 
+## W3C
+
+https://digitalbazaar.github.io/encrypted-data-vaults/
+
+https://identity.foundation/confidential-storage/#identity-hub
+
 ## Microsoft
+Identity Hubs https://didproject.azurewebsites.net/docs/hub-overview.html
 
 DID Registration first test - https://didproject.azurewebsites.net/docs/registration-test.html
 
@@ -395,6 +408,17 @@ Authenticator - https://didproject.azurewebsites.net/docs/credential-authenticat
 
 Complete code - https://github.com/decentralized-identity/hub-sdk-js/blob/master/src/example.ts
 
+Identity Hubs as personal datastores https://techcommunity.microsoft.com/t5/azure-active-directory-identity/identity-hubs-as-personal-datastores/ba-p/389577#:~:text=Identity%20Hubs%20are%20decentralized%2C%20off,data%20without%20their%20explicit%20permission
+
+Flux: 
+Building an issuer website https://didproject.azurewebsites.net/docs/credential-issue-flow.html
+
+Quickstart: Register an application with the Microsoft identity platform  https://docs.microsoft.com/en-ca/azure/active-directory/develop/quickstart-register-app
+
+Quickstart: Set up a tenant  https://docs.microsoft.com/en-ca/azure/active-directory/develop/quickstart-create-new-tenant
+
+Quickstart: Create a new tenant in Azure Active Directory  https://docs.microsoft.com/en-ca/azure/active-directory/fundamentals/active-directory-access-create-new-tenant
+
 
 ## Complement 
 
@@ -402,6 +426,7 @@ JSON Web Key JWK - https://tools.ietf.org/html/rfc7517
 
 Blockchain Identity projects : https://github.com/peacekeeper/blockchain-identity
 
+https://medium.com/decentralized-identity/rhythm-and-melody-how-hubs-and-agents-rock-together-ac2dd6bf8cf4
 
 
 
